@@ -1,0 +1,35 @@
+{
+  "title": "actividad4",
+  "date": "15/12/22",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "actividad4.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 1,
+  "mediaFiles": 11,
+  "totalSize": 312220,
+  "files": [
+    "1200px-copyright.svg-resized.jpg",
+    "actividad4.jclic",
+    "actividad4.jclic.js",
+    "favicon.ico",
+    "historia-de-la-computadora-mouse-engelbart-e1558311514169.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "imagen-de-mohamed-hassan-en-pixabay-resized.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "ley_23_de_1982.jpg",
+    "memoria.png",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "unesco_1-resized.jpg"
+  ]
+}
